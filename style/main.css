@@ -252,11 +252,11 @@ html {
   
   @media screen and (max-width: 500px) {
     .container {
-      width: 90%;
+      width: 100%;
     }
   
     .four .text-box {
-      width: 90%;
+      width: 100%;
     }
   
     .text-box .fake-btn {
