@@ -252,11 +252,11 @@ html {
   
   @media screen and (max-width: 500px) {
     .container {
-      width: 100%;
+      width: 95%;
     }
   
     .four .text-box {
-      width: 100%;
+      width: 90%;
     }
   
     .text-box .fake-btn {
@@ -278,7 +278,7 @@ html {
     }
   
     .wish-hbd {
-      font-size: 2.2em;
+      font-size: 2em;
     }
   
     .wish h5 {
