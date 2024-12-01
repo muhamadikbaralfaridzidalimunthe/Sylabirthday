@@ -109,7 +109,7 @@ html {
   }
   
   .six .hat {
-    left: 41.5%;
+    left: 35.5%;
     position: absolute;
     /* transform: scale(0.1); */
     top: -35%;
@@ -204,7 +204,7 @@ html {
   }
   
   .wish-hbd {
-    font-size: 3em;
+    font-size: 2em;
     margin: 0;
     text-transform: uppercase;
   }

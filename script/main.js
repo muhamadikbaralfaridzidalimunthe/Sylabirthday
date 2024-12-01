@@ -209,7 +209,7 @@ const animationTimeline = () => {
         ".wish-hbd span",
         0.7, {
             opacity: 0,
-            y: -40,
+            y: -50,
             // scale: 0.3,
             rotation: 150,
             skewX: "30deg",
